@@ -1,5 +1,4 @@
 # JavaProject - Design Snake Game
-Here is your **numbered** explanation of the **Snake Game** code:  
 
 ### **1. Overview**  
 - The code represents a **Snake Game** implementation.  
